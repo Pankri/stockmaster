@@ -6,7 +6,8 @@ export const LoggedPage = () => {
     <>
       <div className="container-logged">
         <header className="header-logged">
-          <h1>Usuario</h1>
+          <p>StockMaster</p>
+          <p>Usuario</p>
         </header>
         <main className="outlet-logged">
           <Outlet />

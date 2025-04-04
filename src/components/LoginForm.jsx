@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { useNavigate } from "react-router";
 
 export const LoginForm = () => {
@@ -28,7 +28,7 @@ export const LoginForm = () => {
   return (
     <>
       <div className="container-login">
-        <div className="loginTitle">Bodega v0.1</div>
+        <div className="loginTitle">StockMaster v0.1</div>
         <div className="error">{error}</div>
         <form onSubmit={handleSubmit}>
           <div className="user">

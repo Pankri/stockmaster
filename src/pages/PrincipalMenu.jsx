@@ -14,8 +14,6 @@ export default function PrincipalMenu() {
         <div className="button">Clientes</div>
         <div className="button">Usuarios</div>
         <div className="button">Roles y Perfiles</div>
-        <div className="button">Mantenedor A</div>
-        <div className="button">Mantenedor B</div>
       </div>
       <hr />
     </>
