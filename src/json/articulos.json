@@ -1,0 +1,142 @@
+[
+    {
+      "codigo": "ART-001",
+      "descripcion": "Balón Fútbol Profesional",
+      "cantidad_actual": 50,
+      "precio": 29.99,
+      "estado": "activo"
+    },
+    {
+      "codigo": "ART-002",
+      "descripcion": "Zapatillas Running Hombre (Talla 42)",
+      "cantidad_actual": 35,
+      "precio": 89.95,
+      "estado": "inactivo"
+    },
+    {
+      "codigo": "ART-003",
+      "descripcion": "Raqueta Tenis de Grafito",
+      "cantidad_actual": 20,
+      "precio": 75.50,
+      "estado": "activo"
+    },
+    {
+      "codigo": "ART-004",
+      "descripcion": "Camiseta Deportiva (Talla M)",
+      "cantidad_actual": 100,
+      "precio": 19.99,
+      "estado": "bloqueado"
+    },
+    {
+      "codigo": "ART-005",
+      "descripcion": "Pesas Gimnasio (2kg - Par)",
+      "cantidad_actual": 60,
+      "precio": 15.75,
+      "estado": "activo"
+    },
+    {
+      "codigo": "ART-006",
+      "descripcion": "Bicicleta Montaña Aro 29",
+      "cantidad_actual": 10,
+      "precio": 399.00,
+      "estado": "inactivo"
+    },
+    {
+      "codigo": "ART-007",
+      "descripcion": "Gorra Deportiva Visera",
+      "cantidad_actual": 80,
+      "precio": 12.50,
+      "estado": "activo"
+    },
+    {
+      "codigo": "ART-008",
+      "descripcion": "Cuerda Saltar Ajustable",
+      "cantidad_actual": 120,
+      "precio": 9.99,
+      "estado": "bloqueado"
+    },
+    {
+      "codigo": "ART-009",
+      "descripcion": "Guantes Portero Profesional (Talla 9)",
+      "cantidad_actual": 15,
+      "precio": 45.00,
+      "estado": "activo"
+    },
+    {
+      "codigo": "ART-010",
+      "descripcion": "Shorts Deportivos Hombre (Talla L)",
+      "cantidad_actual": 90,
+      "precio": 22.75,
+      "estado": "inactivo"
+    },
+    {
+      "codigo": "ART-011",
+      "descripcion": "Tabla Skate Profesional",
+      "cantidad_actual": 8,
+      "precio": 120.00,
+      "estado": "activo"
+    },
+    {
+      "codigo": "ART-012",
+      "descripcion": "Casco Bicicleta Montaña",
+      "cantidad_actual": 25,
+      "precio": 35.90,
+      "estado": "bloqueado"
+    },
+    {
+      "codigo": "ART-013",
+      "descripcion": "Set Bandas Elásticas",
+      "cantidad_actual": 40,
+      "precio": 28.50,
+      "estado": "activo"
+    },
+    {
+      "codigo": "ART-014",
+      "descripcion": "Botella Agua Deportiva (1 Litro)",
+      "cantidad_actual": 150,
+      "precio": 8.99,
+      "estado": "inactivo"
+    },
+    {
+      "codigo": "ART-015",
+      "descripcion": "Red Voleibol Profesional",
+      "cantidad_actual": 5,
+      "precio": 65.00,
+      "estado": "activo"
+    },
+    {
+      "codigo": "ART-016",
+      "descripcion": "Rodilleras Deportivas (Par)",
+      "cantidad_actual": 30,
+      "precio": 17.25,
+      "estado": "bloqueado"
+    },
+    {
+      "codigo": "ART-017",
+      "descripcion": "Pelota Baloncesto Oficial",
+      "cantidad_actual": 45,
+      "precio": 32.00,
+      "estado": "activo"
+    },
+    {
+      "codigo": "ART-018",
+      "descripcion": "Zapatillas Fútbol Sala (Talla 40)",
+      "cantidad_actual": 18,
+      "precio": 59.99,
+      "estado": "inactivo"
+    },
+    {
+      "codigo": "ART-019",
+      "descripcion": "Cronómetro Deportivo",
+      "cantidad_actual": 70,
+      "precio": 14.50,
+      "estado": "activo"
+    },
+    {
+      "codigo": "ART-020",
+      "descripcion": "Pantalón Yoga Mujer (Talla S)",
+      "cantidad_actual": 22,
+      "precio": 38.00,
+      "estado": "bloqueado"
+    }
+  ]
